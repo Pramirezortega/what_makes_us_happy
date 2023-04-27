@@ -8,4 +8,6 @@ This repository contains all the data and materials that we used for the project
 
 **Problem statement: What factors influence the level of happiness in countries?**
 
-Initial dataset ("2016 world metrics") can be downloaded with the link (here)[https://www.kaggle.com/code/dariasvasileva/merging-world-metrics-sets/output]
+Initial dataset ("2016 world metrics") can be downloaded with the link below:
+
+https://www.kaggle.com/code/dariasvasileva/merging-world-metrics-sets/output
